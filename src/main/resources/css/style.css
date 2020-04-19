@@ -1,0 +1,11 @@
+.root {
+	-fx-focus-color: transparent;
+}
+
+.button {
+	-fx-font-size: 20;
+}
+
+.time {
+	-fx-font-size: 30;
+}
