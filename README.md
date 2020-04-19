@@ -1,7 +1,7 @@
 # MemoryCardGame
-![demo](demo.png)
+![demo](demo.png)   
 用JavaFX製作的翻牌遊戲
 
 ## Download
-Windows: [link]()
+Windows: [link]()   
 Linux: [link]()
